@@ -1,0 +1,10 @@
+<!--pages/mine/mine.wxml-->
+
+
+<button wx:if="{{!userInfo}}" bindtap="login" type='primary' >登录</button>
+<view wx:else class="root"> 
+  <image class="touxiang" src="{{userInfo.avatarUrl}}"></image>
+  <text class="nickName">{{userInfo.nickName}}</text>
+  <button bindtap="loginout">退出</button>
+
+</view>
