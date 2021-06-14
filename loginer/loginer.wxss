@@ -1,0 +1,17 @@
+.content{
+  margin-top: 10px;
+}
+.logo{
+  width: 300rpx;
+  height: 300rpx;
+  vertical-align: middle;
+  margin-left:125px;
+  padding-top: 0px;
+}
+.rule{
+  width: 800rpx;
+  height: 300rpx;
+  vertical-align: middle;
+  margin-left:15px;
+  padding-top: 0px;
+}

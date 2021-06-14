@@ -1,0 +1,4 @@
+<view class="content">
+<image class="logo" src='/image/daka.png'></image>
+<image class="rule" src='/image/rules.png'></image>
+</view>
